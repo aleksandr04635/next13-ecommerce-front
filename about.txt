@@ -1,0 +1,15 @@
+front to new4/next13-ecommerce-admin-master
+
+https://www.youtube.com/watch?v=5miHyP6lExg
+https://github.com/AntonioErdeljac/next13-ecommerce-admin/tree/demo
+Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL-Postgres, 2023
+zustand for a cart
+
+front to it - ?
+https://github.com/AntonioErdeljac/next13-ecommerce-store
+new4/next13-ecommerce-admin-master
+
+with Clerk
+https://clerk.com/docs/quickstarts/nextjs
+
+image uploading with Cloudinary widget in billboard-form.tsx
